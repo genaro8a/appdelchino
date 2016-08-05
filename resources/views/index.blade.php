@@ -6,7 +6,7 @@
 			<div class="top-header">
 				<div class="logo">
 					<a href="index.html"><img src="images/logo.png" alt="" /></a>
-					<p>REMOLQUE DEL CHINO</p>
+					<p>REMOLQUE</p>
 				</div>
 				<div class="clearfix"></div>
 			</div>
