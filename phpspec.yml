@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Remolque
+        psr4_prefix: Remolque
+        src_path: app
